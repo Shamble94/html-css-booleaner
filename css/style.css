@@ -37,3 +37,24 @@ box-sizing: border-box;
 td{
     width: 30%;
 }
+footer{
+    margin: 20px 0 20px 0;
+}
+.finale{
+    color: grey;
+}
+h3{
+    color: white;
+}
+.primafoto{
+    background-image: url(../img/monitor.jpg);
+}
+.secondafoto{
+    background-image: url(../img/graph.jpg);
+}
+#fotofinale{
+    margin-bottom: 20px;
+    width: 250px;
+    height: 200px;
+
+}
