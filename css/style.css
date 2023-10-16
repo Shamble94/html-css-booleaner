@@ -1,0 +1,39 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+.Intestazione{
+    background-image: url(../img/pattern.png);
+    background-color: aqua;
+    height: 100px;
+    
+}
+
+.logo{
+    width: 250px;
+    padding-top: 30px;
+}
+.ScrittoDa{
+    color: aqua;
+}
+.Corpo{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+.headTabella{
+    background-color: aquamarine;
+    height: 1px;
+    color: white;
+}
+.exerci{
+    background-color: yellow;
+}
+.rigachiara{
+    background-color: rgba(27,160,230,255) ;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+td{
+    width: 30%;
+}
